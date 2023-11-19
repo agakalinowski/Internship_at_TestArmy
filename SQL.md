@@ -10,7 +10,7 @@ The MySQL course provided me with a solid foundation and practical skills that I
 
 ## Repository Structure
 
-1. Employees
+1. [Employees](https://github.com/agakalinowski/Internship-at-TestArmy/blob/main/Employees.sql)
 
 2. Orders
 
