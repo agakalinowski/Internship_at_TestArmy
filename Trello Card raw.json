@@ -1,0 +1,188 @@
+{
+	"info": {
+		"_postman_id": "1ce81393-ac97-428b-81be-2605bd0642de",
+		"name": "Card",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31230334"
+	},
+	"item": [
+		{
+			"name": "New card on list \"Waiting and more'",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/1/cards?idList=6557608730814008c3e6f463&key={{key}}&token={{token}}&name=Job interview",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"1",
+						"cards"
+					],
+					"query": [
+						{
+							"key": "idList",
+							"value": "6557608730814008c3e6f463"
+						},
+						{
+							"key": "key",
+							"value": "{{key}}"
+						},
+						{
+							"key": "token",
+							"value": "{{token}}"
+						},
+						{
+							"key": "name",
+							"value": "Job interview"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New(second) card on list \"Waiting and more'",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/1/cards?idList=6557608730814008c3e6f463&key={{key}}&token={{token}}&name=Resume",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"1",
+						"cards"
+					],
+					"query": [
+						{
+							"key": "idList",
+							"value": "6557608730814008c3e6f463"
+						},
+						{
+							"key": "key",
+							"value": "{{key}}"
+						},
+						{
+							"key": "token",
+							"value": "{{token}}"
+						},
+						{
+							"key": "name",
+							"value": "Resume"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "move card to another list",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/1/cards/6557628500d4b4020536a96b?key={{key}}&token={{token}}&idList=6557566c1e277da18467fba5",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"1",
+						"cards",
+						"6557628500d4b4020536a96b"
+					],
+					"query": [
+						{
+							"key": "key",
+							"value": "{{key}}"
+						},
+						{
+							"key": "token",
+							"value": "{{token}}"
+						},
+						{
+							"key": "idList",
+							"value": "6557566c1e277da18467fba5"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New(third) card on list \"Waiting and more'",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/1/cards?idList=6557608730814008c3e6f463&key={{key}}&token={{token}}&name=Meeting with HR ",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"1",
+						"cards"
+					],
+					"query": [
+						{
+							"key": "idList",
+							"value": "6557608730814008c3e6f463"
+						},
+						{
+							"key": "key",
+							"value": "{{key}}"
+						},
+						{
+							"key": "token",
+							"value": "{{token}}"
+						},
+						{
+							"key": "name",
+							"value": "Meeting with HR "
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete one card from list",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/1/cards/655762b2545aeaecf85a78cb?key={{key}}&token={{token}}",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"1",
+						"cards",
+						"655762b2545aeaecf85a78cb"
+					],
+					"query": [
+						{
+							"key": "key",
+							"value": "{{key}}"
+						},
+						{
+							"key": "token",
+							"value": "{{token}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get a Card",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
