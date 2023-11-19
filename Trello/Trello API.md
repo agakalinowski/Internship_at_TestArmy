@@ -1,5 +1,4 @@
 # Rest API Testing with Postman
-Here you can check my results: REST API POSTMAN
 
 ## Overview
 
