@@ -11,8 +11,8 @@ Furthermore, the knowledge gained during the internship allowed me to obtain val
 Completing the internship at TestArmy was a pivotal step in my professional journey, providing me with the necessary skills to enter the workforce as a proficient software testing specialist. This experience exceeded my expectations and equipped me with the essential skills for effective operation in the dynamic field of software testing.
 
 *The internship covered various topics:*
-- **Task 1**: [Exploratory Testing](https://github.com/agakalinowski/Portfolio/blob/main/exploratory_testing.md)
-- **Task 2**: [Test cases – TestLink](https://github.com/agakalinowski/Portfolio/blob/main/Test%20cases.md)
-- **Task 3**: [Bug reporting – Mantis](https://github.com/agakalinowski/Portfolio/blob/main/Bug%20reporting.md)
-- **Task 4**: [REST API Postman](https://github.com/agakalinowski/Portfolio/blob/main/Trello%20API.md)
+- **Task 1**: [Exploratory Testing](https://github.com/agakalinowski/Internship_at_TestArmy/blob/main/exploratory_testing.md)
+- **Task 2**: [Test cases – TestLink](https://github.com/agakalinowski/Internship_at_TestArmy/blob/main/Test%20cases.md)
+- **Task 3**: [Bug reporting – Mantis](https://github.com/agakalinowski/Internship_at_TestArmy/blob/main/Bug%20reporting.md)
+- **Task 4**: [REST API Postman](https://github.com/agakalinowski/Internship_at_TestArmy/blob/main/Trello%20API.md)
 - **Task 5**: [MySQL basic query](https://github.com/agakalinowski/Internship-at-TestArmy/blob/main/SQL.md)
