@@ -18,9 +18,9 @@ I executed scripts corresponding to various test cases, covering the following a
 - Closing/Archiving one card
 - Moving one card to another list
 
-[Board](https://github.com/agakalinowski/Portfolio/blob/main/Board%20Trello%20raw.json)
-[List](https://github.com/agakalinowski/Portfolio/blob/main/Trello%20List%20raw.json)
-[Card](https://github.com/agakalinowski/Portfolio/blob/main/Trello%20Card%20raw.json)
+[Board](https://github.com/agakalinowski/Internship_at_TestArmy/blob/main/Trello/Board%20Trello%20raw.json)
+[List](https://github.com/agakalinowski/Internship_at_TestArmy/blob/main/Trello/Trello%20List%20raw.json)
+[Card](https://github.com/agakalinowski/Internship_at_TestArmy/blob/main/Trello/Trello%20Card%20raw.json)
 
 ## Skills Developed
 
@@ -38,3 +38,18 @@ Feel free to explore the Postman collection in this repository to understand the
 ## Conclusion
 
 Engaging in this task has enhanced my understanding of API testing concepts and sharpened my skills in utilizing the features provided by the Postman platform. I welcome any feedback and suggestions for improvements.
+
+## Important Information
+
+This repository contains confidential information and/or files intended solely for viewing. Please adhere to the following guidelines:
+
+- **Confidentiality:** The information within this repository is confidential, and copying or using it for commercial purposes is not allowed without prior consent.
+- **Restrictions:** Copying, reproducing, or using the content of this repository for purposes other than viewing is strictly prohibited.
+
+Please read the full documentation before using this data.
+
+Thank you for your understanding and compliance with the guidelines.
+
+
+
+
