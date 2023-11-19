@@ -10,8 +10,8 @@ The MySQL course provided me with a solid foundation and practical skills that I
 
 ## Repository Structure
 
-1. [Employees](https://github.com/agakalinowski/Internship-at-TestArmy/blob/main/Employees.sql)
+1. [**Employees**](https://github.com/agakalinowski/Internship-at-TestArmy/blob/main/Employees.sql)
 
-2. Orders
+2. [**Orders**](https://github.com/agakalinowski/Internship-at-TestArmy/blob/main/Orders.sql)
 
-3. 
+3. [**Orders&Buyer**](https://github.com/agakalinowski/Internship-at-TestArmy/blob/main/Orders%26Buyer.sql)
